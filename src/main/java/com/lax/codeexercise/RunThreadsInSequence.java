@@ -1,5 +1,8 @@
 package com.lax.codeexercise;
 
+/*
+ * mplementation where multiple threads print alternate values of sequence
+ */
 public class RunThreadsInSequence {
 
 	public class ResourceLock {
